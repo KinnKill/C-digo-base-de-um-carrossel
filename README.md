@@ -1,18 +1,27 @@
 ## Descrição do Repositório
 
-> [!IMPORTANT]\
-> Este repositório contém a base de um carrossel simples desenvolvido utilizando HTML, CSS e JavaScript. O código apresentado permite a criação de um carrossel que exibe imagens de forma automática e fluida. A estrutura foi projetada para ser fácil de entender e modificar, oferecendo uma solução flexível para integrar em projetos web.
+Este repositório contém o código-base para um **carrossel simples**, desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O projeto oferece uma solução prática e adaptável para exibir imagens de forma **automática** e **fluida** em projetos web.  
 
-O código foi simplificado deliberadamente para facilitar ajustes conforme as necessidades do projeto. Os desenvolvedores podem modificar facilmente:
+A estrutura foi projetada para ser **intuitiva e fácil de personalizar**, permitindo que desenvolvedores adaptem rapidamente o código às suas necessidades específicas.  
 
-- **Conteúdo dos Slides:** Substituir as imagens existentes por outras de acordo com os requisitos visuais.
-  
-- **Estilos de Design:** Personalizar cores, tamanhos e efeitos de transição para integrar-se com diferentes estilos visuais.
+## Funcionalidades Principais
 
+- **Exibição Automática:** As imagens do carrossel trocam automaticamente, proporcionando uma experiência dinâmica para o usuário.  
+- **Personalização Simples:** Os arquivos foram organizados para facilitar ajustes tanto no conteúdo quanto no design.  
 
+## Personalização
 
-> [!NOTE]\
-> Para integrar o carrossel em um projeto existente, basta incluir os arquivos HTML, CSS e JavaScript conforme necessário. A estrutura organizada e os comentários explicativos facilitam a compreensão e adaptação do código.
+- **Conteúdo dos Slides:** Substituir ou adicionar imagens para atender aos requisitos visuais do projeto.  
+- **Estilo do Carrossel:** Ajustar cores, tamanhos, efeitos de transição e outros elementos visuais para combinar com a identidade do projeto.  
 
+Com uma estrutura organizada e instruções claras, o carrossel pode ser rapidamente configurado e implementado.  
 
+## Tecnologias utilizadas
+* HTML
+* CSS
+* Javascript
 
+## Autor
+  ### Kilton Jhonathan de Araújo.
+Github: [Kilton.araujo](https://github.com/KiltonAraujo)
+Email: Kilton.araujo@gmail.com
